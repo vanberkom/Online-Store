@@ -41,7 +41,7 @@ public class DatabaseFinal {
                         Account.Menu();
                     break;
                     case 5:
-                        
+                        Store.menu();
                     break;
                     case 6:
                         Department dep = new Department();
